@@ -1,0 +1,29 @@
+{
+  "name": "@12dlabs/chemistry",
+  "version": "0.1.0",
+  "description": "A javascript library about chemistry.",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "build": "tsc --project ./src/tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12dlabs/chemistry.git"
+  },
+  "keywords": [
+    "chemistry",
+    "perioic-table",
+    "chemical-element",
+    "isotope"
+  ],
+  "author": "Kingcean Tuan <kingcean@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/12dlabs/chemistry/issues"
+  },
+  "homepage": "https://github.com/12dlabs/chemistry/wiki",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
